@@ -1,4 +1,4 @@
-##clinical:theming
+##clinical:error-pages
 
 Error pages for healthcare apps:  LoadingPage and PageNotFound and maybe eventually others...
 

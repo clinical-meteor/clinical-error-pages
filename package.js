@@ -1,6 +1,6 @@
 Package.describe({
   name: 'clinical:error-pages',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Error pages for healthcare apps:  LoadingPage and PageNotFound and maybe eventually others...',
   git: 'https://github.com/clinical-meteor/clinical-error-pages',
   documentation: 'README.md'
